@@ -7,7 +7,7 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from pymongo import MongoClient
 
-#Iam not mentioning my Useranes and passwords forSecurity Concerns. 
+#Iam not mentioning my Usernames and passwords forSecurity Concerns. 
 PROXYMESH_USERNAME = 'my proxy name'
 PROXYMESH_PASSWORD = '****'
 PROXYMESH_SERVER = 'us-wa.proxymesh.com:31280'
